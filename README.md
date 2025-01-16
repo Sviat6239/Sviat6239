@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sviat6239 (Святослав).  
+- 👋 Hi, I’m @Sviat6239 / Sviat / Sviatoslav.  
 - 👀 I’m interested in programming, game development, 3D graphics, and video editing.  
 - 🌱 I’m currently learning advanced concepts in Python, C, Java, and Rust.  
 - 💞️ I’m looking to collaborate on game development, creative desktop apps, and cool web projects.  
