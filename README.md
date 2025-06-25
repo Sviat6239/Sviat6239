@@ -8,8 +8,8 @@ I'm a passionate developer with a keen interest in various technologies and prog
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C, Rust
-- **Web Development:** HTML, CSS, JS, TS, React, Python-DJango, Python-Flask
+- **Languages:** Python, JavaScript, TypeScript, Java, C
+- **Web Development:** HTML, CSS, JS, Python-DJango, Python-Flask
 - **Databases:** SQLite, PostgreSQL
 - **DevOps:** None
 - **Cloud:** None
