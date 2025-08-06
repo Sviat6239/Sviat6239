@@ -13,7 +13,7 @@ I'm a passionate developer with a keen interest in various technologies and prog
 - **Databases:** SQLite, PostgreSQL
 - **DevOps:** None
 - **Cloud:** None
-- **Others:** Git, GitHub, WIndows, VS Code
+- **Others:** Git, GitHub, WIndows,Linux, VS Code
 
 ## 📈 GitHub Stats
 
