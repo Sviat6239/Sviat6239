@@ -4,16 +4,15 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🌟 About Me
 
-I'm a passionate developer with a keen interest in various technologies and programming languages. I enjoy solving problems, learning new things, and contributing to open-source projects.
+I'm a passionate developer with a keen interest in various technologies and programming languages. I enjoy solving problems, learning new things.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C
-- **Web Development:** HTML, CSS, JS, Python-DJango, Python-Flask
+- **Web Development:** HTML, CSS, JS, TS, Solid.js
+- **Backend:** Fastify.js, Elysia.js, Node.js
 - **Databases:** SQLite, PostgreSQL
-- **DevOps:** None
-- **Cloud:** None
-- **Others:** Git, GitHub, WIndows,Linux, VS Code
+- **Deployment & DevOps:** VPS deployment, SSH, basic server management
+- **Others:** Git, GitHub, WIndows, Linux, VS Code
 
 ## 📈 GitHub Stats
 
