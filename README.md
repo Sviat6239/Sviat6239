@@ -16,11 +16,11 @@ I'm a passionate developer with a keen interest in various technologies and prog
 
 ## 📈 GitHub Stats
 
-![Sviat6239's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sviat6239&show_icons=true&theme=radical)
+[![Sviat6239's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sviat6239&show_icons=true&theme=radical)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sviat6239&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sviat6239&layout=compact&theme=radical&langs_count=8&exclude_repo=github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sviat6239&layout=compact&theme=radical&langs_count=8&exclude_repo=github-readme-stats)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sviat6239&layout=compact&theme=radical)
 
 ## 🚀 Projects
 
