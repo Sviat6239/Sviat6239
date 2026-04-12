@@ -1,36 +1,89 @@
 # Hi there, I'm Sviat6239! 👋
 
-Welcome to my GitHub profile! Here's a little bit about me:
+Welcome to my GitHub profile!
+
+---
 
 ## 🌟 About Me
 
-I'm a passionate developer with a keen interest in various technologies and programming languages. I enjoy solving problems, learning new things.
+I'm a developer focused on backend, web systems, and engineering-style programming.  
+I enjoy building systems, learning low-level concepts, and improving software architecture.
+
+---
 
 ## 🔧 Technologies & Tools
 
-- **Web Development:** HTML, CSS, JS, TS, Solid.js
-- **Backend:** Fastify.js, Elysia.js, Node.js
-- **Databases:** SQLite, PostgreSQL
-- **Deployment & DevOps:** VPS deployment, SSH, basic server management
-- **Others:** Git, GitHub, WIndows, Linux, VS Code
+### 🧠 Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-## 📈 GitHub Stats
+---
 
-[![Sviat6239's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sviat6239&show_icons=true&theme=radical)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sviat6239&show_icons=true&theme=radical)
+### ⚙️ Frameworks / Libraries
 
-## 🏆 Top Languages
+![Actix](https://img.shields.io/badge/Actix--Web-000000?style=for-the-badge&logo=rust)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sviat6239&layout=compact&theme=radical&langs_count=8&exclude_repo=github-readme-stats)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sviat6239&layout=compact&theme=radical)
+---
+
+### 🗄️ Backend / Infra
+- Node.js
+- PostgreSQL / SQLite
+- VPS deployment
+- SSH
+- Linux / Windows
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sviat6239&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sviat6239&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sviat6239&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sviat6239&theme=react-dark" />
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sviat6239&theme=radical" />
+</p>
+
+---
 
 ## 🚀 Projects
 
-Here are some of my notable projects:
+- [**Ewangelia Landing page**](https://github.com/Sviat6239/evangelionLandingPage)
+- [**Rust exercises**](https://github.com/Sviat6239/rust-exercises)
+- [**G-IDE**](https://github.com/Sviat6239/gide)
+- [**Gamma compiler**](https://github.com/Sviat6239/gamma)
 
-- [**PrychalWebSite**](https://github.com/Sviat6239/PrychalWebSite): 
-- [**TaskMangerInDjango**](https://github.com/Sviat6239/TaskMangerInDjango): 
-- [**G-IDE**](https://github.com/Sviat6239/G-IDE): 
-- [**Zing**](https://github.com/Sviat6239/Zing):
+---
 
 Thank you for visiting my profile!
-
-```
