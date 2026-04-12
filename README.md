@@ -20,7 +20,7 @@ I'm a passionate developer with a keen interest in various technologies and prog
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sviat6239&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sviat6239&layout=compact&theme=radical&langs_count=8&exclude_repo=github-readme-stats)
 
 ## 🚀 Projects
 
