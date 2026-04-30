@@ -96,6 +96,8 @@ I enjoy building systems, learning low-level concepts, and improving software ar
 - [**Rust exercises**](https://github.com/Sviat6239/rust-exercises)
 - [**G-IDE**](https://github.com/Sviat6239/gide)
 - [**Gamma compiler**](https://github.com/Sviat6239/gamma)
+- [**Kernix**](https://github.com/Sviat6239/kernix)
+- [**Gasm**](https://github.com/Sviat6239/gasm)
 
 ---
 
