@@ -53,19 +53,6 @@ I enjoy building systems, learning low-level concepts, and improving software ar
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sviat6239&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sviat6239&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sviat6239&theme=radical" />
-</p>
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -79,26 +66,5 @@ I enjoy building systems, learning low-level concepts, and improving software ar
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sviat6239&theme=react-dark" />
 </p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sviat6239&theme=radical" />
-</p>
-
----
-
-## 🚀 Projects
-
-- [**Ewangelia Landing page**](https://github.com/Sviat6239/evangelionLandingPage)
-- [**Rust exercises**](https://github.com/Sviat6239/rust-exercises)
-- [**G-IDE**](https://github.com/Sviat6239/gide)
-- [**Gamma compiler**](https://github.com/Sviat6239/gamma)
-- [**Kernix**](https://github.com/Sviat6239/kernix)
-- [**Gasm**](https://github.com/Sviat6239/gasm)
-- [**BASIC**](https://github.com/Sviat6239/BASIC-programming-language)
----
 
 Thank you for visiting my profile!
